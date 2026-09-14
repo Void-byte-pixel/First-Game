@@ -1,7 +1,7 @@
 # First Game
 
 Primo gioco fatto insieme, presentato a voi da  
-Void-byte-pixel e 'the Elegiast' <--(nome, oppure chiamatemi mirr-OrS :P)
+Void-byte-pixel e Nikita <--(nome, oppure chiamatemi Niki :P)
 
 # Cose da decidere
 

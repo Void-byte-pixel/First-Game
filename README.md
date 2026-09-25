@@ -8,4 +8,4 @@ Void-byte-pixel e Nikita <--(nome, oppure chiamatemi Niki :P)
 - In che linguaggio lo faremo? godot
 - Che tipo di ambietazione e tema? Magia
 - storia gioco?
-- nome team? 
+- nome team? Void Reflections studio
